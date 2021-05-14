@@ -1,0 +1,16 @@
+{
+  "name": "12-coming-soon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "live-server --port=3000"
+  },
+  "keywords": [],
+  "author": "Vardenis",
+  "license": "MIT"
+}
